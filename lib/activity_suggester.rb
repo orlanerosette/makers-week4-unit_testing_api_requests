@@ -23,6 +23,6 @@ end
 
 # Usage
 # =====
-activity_suggester = ActivitySuggester.new(Net::HTTP)
-p activity_suggester.suggest # => "Why not: Learn how to use a french press"
-p activity_suggester.suggest # => "Why not: Hold a video game tournament with some friends"
+# activity_suggester = ActivitySuggester.new(Net::HTTP)
+# p activity_suggester.suggest # => "Why not: Learn how to use a french press"
+# p activity_suggester.suggest # => "Why not: Hold a video game tournament with some friends"
